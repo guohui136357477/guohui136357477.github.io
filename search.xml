@@ -6,7 +6,11 @@
     <entry>
       <title><![CDATA[ 新文章]]></title>
       <url>http://yoursite.com/2016/08/15/%E6%96%B0%E6%96%87%E7%AB%A0/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p>#生活日志</p>
+<p>##工作</p>
+<p>##学习 hexo 搭建blog</p>
+<p>###实现 展示,评论,统计,分享,登录功能</p>
+]]></content>
     </entry>
     
     <entry>
