@@ -4,6 +4,30 @@
   
     
     <entry>
+      <title><![CDATA[getlib 工作流程]]></title>
+      <url>https://guohui136357477.github.io/2016/08/18/getlib%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/</url>
+      <content type="html"><![CDATA[<h1 id="gitlib工作流程"><a href="#gitlib工作流程" class="headerlink" title="gitlib工作流程"></a>gitlib工作流程</h1><hr>
+<ol>
+<li><p>日常开发流程(临时性本地/开发/预发布分支)</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">1. git pull origin develop</div><div class="line">2. git checkout -b new_branch develop</div><div class="line">3. git add .</div><div class="line">4. git commit -m “注释”</div><div class="line">5. git pull origin develop</div><div class="line">6. git checkout develop</div><div class="line">7. git merge –no-ff new_branch</div><div class="line">8. git push origin develop</div><div class="line">9. git branch -d new_branch</div><div class="line">```` </div><div class="line"></div><div class="line">2. 组长合并主分支(生产分支)</div></pre></td></tr></table></figure>
+</li>
+<li><p>git pull origin master/develop</p>
+</li>
+<li>git checkout master</li>
+<li>git merge –no-ff develop</li>
+<li>git push origin master<br>```</li>
+</ol>
+<p>注:</p>
+<ol>
+<li>尽量保证在阶段性或功能性开发完成后,自行做好充分白盒测试后提交.不要过于频繁提交;</li>
+<li>上测试环境(develop),进行全方位测试;</li>
+<li>上线测试(master)通过后,相应人员自行删除相应临时本地分支;</li>
+<li>push时保持头脑清醒,不要把本地非develop或master外的临时性本地分支推送到服务器上.</li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[ 如何对心爱的人说话]]></title>
       <url>https://guohui136357477.github.io/2016/08/17/%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BF%83%E7%88%B1%E7%9A%84%E4%BA%BA%E8%AF%B4%E8%AF%9D/</url>
       <content type="html"><![CDATA[<h6 id="我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低"><a href="#我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低" class="headerlink" title="我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低"></a>我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低</h6><p>欢迎收听 : <a href="http://yiapi.xinli001.com/fm/fm-share-page/99389305?share=1" target="_blank" rel="external"><strong>如何谈一场,救赎自我的恋爱</strong></a></p>
