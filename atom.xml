@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guohui136357477.github.io/"/>
-  <updated>2016-08-18T06:11:38.000Z</updated>
+  <updated>2016-08-18T07:40:37.000Z</updated>
   <id>https://guohui136357477.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://guohui136357477.github.io/2016/08/17/%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BF%83%E7%88%B1%E7%9A%84%E4%BA%BA%E8%AF%B4%E8%AF%9D/"/>
     <id>https://guohui136357477.github.io/2016/08/17/如何对心爱的人说话/</id>
     <published>2016-08-17T03:58:33.000Z</published>
-    <updated>2016-08-18T06:11:38.000Z</updated>
+    <updated>2016-08-18T07:40:37.000Z</updated>
     
     <content type="html"><![CDATA[<h6 id="我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低"><a href="#我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低" class="headerlink" title="我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低"></a>我是父亲脾气暴躁，属创伤后遗症，会用言语攻击我，每次有点成绩就泼冷水，心里尴尬也将矛头指向我，关心却故意说反话，想鼓励却故意贬低</h6><p>欢迎收听 : <a href="http://yiapi.xinli001.com/fm/fm-share-page/99389305?share=1" target="_blank" rel="external"><strong>如何谈一场,救赎自我的恋爱</strong></a></p>
 <ol>
@@ -47,7 +47,7 @@
     
     </summary>
     
-      <category term="Diary" scheme="https://guohui136357477.github.io/categories/Diary/"/>
+      <category term="个人情感" scheme="https://guohui136357477.github.io/categories/%E4%B8%AA%E4%BA%BA%E6%83%85%E6%84%9F/"/>
     
     
       <category term="女方口吻来写的 blog" scheme="https://guohui136357477.github.io/tags/%E5%A5%B3%E6%96%B9%E5%8F%A3%E5%90%BB%E6%9D%A5%E5%86%99%E7%9A%84-blog/"/>
@@ -59,7 +59,7 @@
     <link href="https://guohui136357477.github.io/2016/08/15/hello-world/"/>
     <id>https://guohui136357477.github.io/2016/08/15/hello-world/</id>
     <published>2016-08-15T02:28:18.000Z</published>
-    <updated>2016-08-17T07:11:29.000Z</updated>
+    <updated>2016-08-18T07:41:35.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -78,6 +78,10 @@
     
     </summary>
     
+      <category term="技术博客" scheme="https://guohui136357477.github.io/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="事例blog" scheme="https://guohui136357477.github.io/tags/%E4%BA%8B%E4%BE%8Bblog/"/>
     
   </entry>
   
