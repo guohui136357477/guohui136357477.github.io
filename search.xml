@@ -6,8 +6,7 @@
     <entry>
       <title><![CDATA[getlib 工作流程]]></title>
       <url>https://guohui136357477.github.io/2016/08/18/getlib%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/</url>
-      <content type="html"><![CDATA[<h1 id="gitlib工作流程"><a href="#gitlib工作流程" class="headerlink" title="gitlib工作流程"></a>gitlib工作流程</h1><hr>
-<ol>
+      <content type="html"><![CDATA[<ol>
 <li>日常开发流程(临时性本地/开发/预发布分支)</li>
 </ol>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">$ git pull origin develop</div><div class="line">$ git checkout -b new_branch develop</div><div class="line">$ git add .</div><div class="line">$ git commit -m “注释”</div><div class="line">$ git pull origin develop</div><div class="line">$ git checkout develop</div><div class="line">$ git merge –no-ff new_branch</div><div class="line">$ git push origin develop</div><div class="line">$ git branch <span class="_">-d</span> new_branch</div></pre></td></tr></table></figure>
