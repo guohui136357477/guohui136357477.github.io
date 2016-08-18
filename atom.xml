@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guohui136357477.github.io/"/>
-  <updated>2016-08-18T09:12:15.000Z</updated>
+  <updated>2016-08-18T09:14:29.000Z</updated>
   <id>https://guohui136357477.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://guohui136357477.github.io/2016/08/18/getlib%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/"/>
     <id>https://guohui136357477.github.io/2016/08/18/getlib工作流程/</id>
     <published>2016-08-18T09:04:05.000Z</published>
-    <updated>2016-08-18T09:12:15.000Z</updated>
+    <updated>2016-08-18T09:14:29.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="gitlib工作流程"><a href="#gitlib工作流程" class="headerlink" title="gitlib工作流程"></a>gitlib工作流程</h1><hr>
 <ol>
@@ -50,6 +50,10 @@
     
     </summary>
     
+      <category term="技术博客" scheme="https://guohui136357477.github.io/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="getlib 的使用" scheme="https://guohui136357477.github.io/tags/getlib-%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
     
   </entry>
   
